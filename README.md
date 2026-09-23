@@ -22,7 +22,7 @@ Unlike corporate acquisitions, commercial banks cannot freely drain liquidity wi
 *   **Debt (5%):** ₹1,858.5 Cr via Tier-II bond issuance (Pre-tax cost of debt modeled at 8.0%).
 *   **Statutory Tax Rate:** 25.168% (Section 115BAA) applied to calculate the marginal tax shields on both debt and foregone cash.
 
-*(Insert Donut Chart Screenshot Here: `![Funding Mix](Visuals/funding_mix.png)`)*
+![Funding Mix](Visual%201-Funding%20mix.png)
 
 ---
 
@@ -33,7 +33,7 @@ The model calculates the combined net income after accounting for post-tax inter
 *   **Combined Entity EPS:** ₹85.67
 *   **Net Impact:** **-4.07% (Dilutive)**
 
-*(Insert Waterfall Chart Screenshot Here: `![EPS Bridge](Visuals/eps_waterfall.png)`)*
+![EPS Impact](Visual%202-EPS%20Impact.png)
 
 ### Strategic Rationale for Dilution
 The mathematical dilution (-4.07%) occurs because Axis Bank's cost of equity (earnings yield of ~7.2%) exceeds the target's standalone earnings yield (~3.6%). However, in a real-world scenario, this short-term dilution would be offset by **Post-Merger Synergies**:
@@ -46,3 +46,13 @@ The mathematical dilution (-4.07%) occurs because Axis Bank's cost of equity (ea
 *   **Financial Modeling:** Dynamic cell referencing, scenario building, and keyboard-first Excel navigation.
 *   **Corporate Finance:** Cost of capital calculations, Share Swap ratios, and Tax Shield mechanics.
 *   **Commercial Banking Acumen:** Understanding of regulatory liquidity constraints vs. free corporate cash flow.
+
+---
+
+## ⚠️ Disclaimer
+
+> **This document is an independent academic exercise prepared solely for learning purposes as part of a PGDM (Finance) project at Welingkar Institute of Management, Mumbai.** 
+>
+> It is not affiliated with, endorsed by, or reviewed by Axis Bank, Bandhan Bank, or any of their officers, employees, or advisors. All figures, assumptions, and conclusions are the author's own estimates, built on publicly available information and simplified for illustrative purposes; they do not represent an actual or proposed transaction between the two banks. 
+> 
+> Nothing in this workbook constitutes investment advice, a recommendation, or an offer to buy or sell any security, and it should not be relied upon for any financial, legal, or investment decision. Please verify all data independently before any other use.
